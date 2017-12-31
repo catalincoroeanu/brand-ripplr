@@ -11,3 +11,4 @@ pytest.ini
 test_settings.py
 elasticsearch
 kibana/
+share/
